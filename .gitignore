@@ -1,0 +1,19 @@
+﻿# OS & Editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Dependencies & Build outputs
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.env
+dist/
+build/
+
+# Logs & Temp files
+*.log
+*.tmp
