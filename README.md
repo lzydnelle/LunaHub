@@ -1,4 +1,4 @@
 # LunaHub
 
-Personal Projects 2026
+Personal Projects of Luna
 
